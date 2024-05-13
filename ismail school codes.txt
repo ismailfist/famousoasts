@@ -1,0 +1,23 @@
+ismail school codes
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Roast Time!</title>
+</head>
+<body>
+    <h1 style="background-color: red;">Hello, it's time to roast!</h1>
+    <p>This is one good roast.</p>
+    <h1>You should not be talking because they found you on a beach as a meteorite.</h1>
+    <h2>If this was helpful, please slam your face.</h2>
+    <a href="https://akns-images.eonline.com/eol_images/Entire_Site/2013107/rs_560x396-131107145810-YOUR_MOMMA_IS_SO_FAT.jpg?fit=around|600:467&crop=600:467;center,top&output-quality=90">Your mama</a>
+    <a href="https://bestlifeonline.com/yo-mama-jokes/">Web mama</a>
+    <a href="https://www.bing.com/videos/riverview/relatedvideo?q=your%20mama%20song&mid=FA0257BE5BDB3B21E39DFA0257BE5BDB3B21E39D&ajaxhist=0">mama song</a>
+    <h2>hammad ismail</h2>
+    <h1>Thanks so much for this love, mama!</h1>
+    <p>And now, a bonus jokes:</p>
+    <h1>Why did the web developer break up with their computer?</h1>
+    <p>Because it had too many <code>bugs</code>!</p>
+    <p>Yo mama is so strict, she enforced a curfew for the entire neighborhood</p>
+</body>
+</html>
