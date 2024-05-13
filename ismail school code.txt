@@ -1,0 +1,55 @@
+ismail school code
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Extravaganza</title>
+    <style>
+        /* Some fancy CSS for good measure */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+        }
+        h1 {
+            color: #ff4500;
+        }
+        p {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🌟 Welcome to the HTML Extravaganza! 🌟</h1>
+    <p>This is a <strong>bold</strong> statement.</p>
+    <p>And here's an <em>emphasized</em> one.</p>
+    <p>Let's list some fruits:</p>
+    <ul>
+        <li>🍎 Apple</li>
+        <li>🍌 Banana</li>
+        <li>🍇 Grape</li>
+    </ul>
+    <p>How about some code?</p>
+    <pre><code>&lt;!-- This is a comment --&gt;</code></pre>
+    <p>Link time! Check out:</p>
+    <a href="https://www.example.com">Example Website</a>
+    <p>And an image:</p>
+    <img src="https://via.placeholder.com/150" alt="Placeholder Image">
+    <p>Time for a table:</p>
+    <table border="1">
+        <tr>
+            <th>Header 1</th>
+            <th>Header 2</th>
+        </tr>
+        <tr>
+            <td>Cell 1</td>
+            <td>Cell 2</td>
+        </tr>
+    </table>
+    <p>Finally, let's add a fun fact:</p>
+    <blockquote>
+        Did you know that the world's first website was created by Sir Tim Berners-Lee in 1991? 🌐
+    </blockquote>
+    <p>Thanks for joining the HTML party! 🎉</p>
+</body>
+</html>

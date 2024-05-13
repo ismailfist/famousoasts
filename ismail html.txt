@@ -1,0 +1,17 @@
+<!Doctiype html>
+<html>
+<head>
+<title>football<title>
+</head>
+<body>
+<hl>I like to play football in the summer.
+</hi>
+<p> football is my favorite game in the summer.
+when the sun is shining the air is warm.
+I like to play foot ball in the pool.
+There are 2 reasons I lke to swim.
+<li> it makes you faster.<li>
+<li>and helps in improving your skills.<li>
+<p>swim</p>
+<li>
+
